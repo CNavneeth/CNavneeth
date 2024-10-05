@@ -1,9 +1,9 @@
 # Hello, I'm Navneeth 👋
 
 ## About Me
-I’m a passionate **Full Stack Developer** from **Bangalore, India**. I love to create interactive and user-friendly web applications.
+I’m a passionate **Full Stack Developer** from **Bangalore, India**. I love to create intuitive and user-friendly web applications.
 
-- 🌱 I’m currently learning **[Technology or Language]**
+- 🌱 I’m currently learning **Java Full Stack Development**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://navssportfolio.web.app/)
 - 💬 Ask me about **Web Development, React, Tailwind CSS, MongoDB, SQL, Three.js**
 - 📫 How to reach me: [cnavneeth27@gmail.com](mailto:cnavneeth27@gmail.com)
