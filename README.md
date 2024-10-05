@@ -4,10 +4,10 @@
 I’m a passionate **Full Stack Developer** from **Bangalore, India**. I love to create interactive and user-friendly web applications.
 
 - 🌱 I’m currently learning **[Technology or Language]**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://navssportfolio.web.app/)
 - 💬 Ask me about **Web Development, React, Tailwind CSS, MongoDB, SQL, Three.js**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I love **chess** and working on personal tech projects.
+- 📫 How to reach me: [cnavneeth27@gmail.com](mailto:cnavneeth27@gmail.com)
+- ⚡ Fun fact: I love **chess**, I play **Guitar**, I love **Editing**  and working on personal tech projects.
 
 ## 🛠️ Tech Stack
 
